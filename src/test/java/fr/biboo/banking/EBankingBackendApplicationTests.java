@@ -8,6 +8,7 @@ class EBankingBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Ajout du contexte
 	}
 
 }
